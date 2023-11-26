@@ -5,7 +5,7 @@ Hi, I'm Divya 👋
 
 A recent Master's graduate passionate about Data Analysis, Machine Learning, and Full-Stack Development.
 
-About Me
+About Me:
 
 
 🎓 Recently completed a Master's in Management Information Systems
@@ -14,48 +14,48 @@ About Me
 
 🌟 Proficient in data analysis, modeling, and full-stack development practices
 
-Skills
+Skills:
 
 
-Data Analysis and Machine Learning
+Data Analysis and Machine Learning -
 
-Proficient in Python, Pandas, NumPy, Scikit-Learn
+* Proficient in Python, Pandas, NumPy, Scikit-Learn
 
-Experienced in data cleaning, exploration, and visualization
+* Experienced in data cleaning, exploration, and visualization
 
-Knowledgeable in various machine learning algorithms
+* Knowledgeable in various machine learning algorithms
 
-Full-Stack Development
+Full-Stack Development -
 
-Skilled in HTML, CSS, JavaScript
+* Skilled in HTML, CSS, JavaScript
 
-Familiar with frontend frameworks like React, Angular
+* Familiar with frontend frameworks like React, Angular
 
-Experienced in backend technologies such as Node.js, Express
+* Experienced in backend technologies such as Node.js, Express
 
-Competent in database management using SQL and MongoDB
+* Competent in database management using SQL and MongoDB
 
 
 Projects and Work Overview:
 
 
-Data Analysis and Machine Learning Projects: Explored various projects in data analysis and machine learning.
+* Data Analysis and Machine Learning Projects: Explored various projects in data analysis and machine learning.
 
-Ongoing Project: Currently working on a mobile app.
+* Ongoing Project: Currently working on a mobile app.
 
 Portfolio Repository:
 
-You can explore my work and projects on My Portfolio Repository.
+You can explore my work and projects on [My Portfolio Repository](https://github.com/DivyaDataNinja/my-portfolio.git).
 
 
-Goals
+Goals:
 
-Excited about contributing to innovative projects and solving real-world challenges
+* Excited about contributing to innovative projects and solving real-world challenges
 
-Eager to apply my skills and continue learning in a professional environment
+* Eager to apply my skills and continue learning in a professional environment
 
 
-Contact Information
+Contact Information:
 
 📧 Email: adivyasarika1991@gmail.com
 
